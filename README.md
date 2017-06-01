@@ -77,4 +77,4 @@ Roadmap
 - Possible Bootstrap SASS alternative.
 - Possible SVG sprite integration via gulp-svg-sprite as a glyph icon font alternative.
 - Possible filename appending to avoid browser caching issues.
-- Possible yeoman generator."# BrickLane" 
+- Possible yeoman generator.
