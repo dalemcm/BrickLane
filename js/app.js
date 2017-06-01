@@ -1,7 +1,7 @@
 // app.js
 var AUTH0_DOMAIN = 'dalemcm.eu.auth0.com';
 var AUTH0_CLIENT_ID = 'F1eNCjLiDHr3j4xic2aKzEKuA4DTvqYg';
-var AUTH0_CALLBACK_URL = 'http://localhost:3000/index.html';
+var AUTH0_CALLBACK_URL = 'https://dalemcm.github.io/BrickLane/';
 
 var webAuth = new auth0.WebAuth({
     domain: AUTH0_DOMAIN,
