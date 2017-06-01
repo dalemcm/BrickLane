@@ -1,0 +1,34 @@
+{
+    "products": [
+        {
+            "Name": "Fender Champion 100 Amp",
+            "Price": "£50",
+            "Description": "5 year old fender amp"
+        },
+        {
+            "Name": "Marshall Stack Amp",
+            "Price": "£120",
+            "Description": "5 year old marshal amp"
+        },
+        {
+            "Name": "Fender Champion 100 Amp",
+            "Price": "£50",
+            "Description": "5 year old fender amp"
+        },
+        {
+            "Name": "Marshall Stack Amp",
+            "Price": "£120",
+            "Description": "5 year old marshal amp"
+        },
+        {
+            "Name": "Fender Champion 100 Amp",
+            "Price": "£50",
+            "Description": "5 year old fender amp"
+        },
+        {
+            "Name": "Marshall Stack Amp",
+            "Price": "£120",
+            "Description": "5 year old marshal amp"
+        }
+    ]
+}
