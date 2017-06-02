@@ -112,14 +112,14 @@ $('document').ready(function(){
 
 // grab data
 function retriveData() {
-    var dataSource = '/data/products.json';
+    var dataSource = '../../data/products.json';
     $.getJSON(dataSource, renderDataVisualsTemplate);
 };
 
 // render compiled handlebars template
 function renderDataVisualsTemplate(data){
     handlebarsDebugHelper();
-    renderHandlebarsTemplate('/templates/products.handlebars', '#products', data);
+    renderHandlebarsTemplate('../../templates/products.handlebars', '#products', data);
 };
 
 // render handlebars templates via ajax
